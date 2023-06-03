@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently studying IT, Software Development<br>💡 I’m looking to always learn about open source projects, other programming languages, game development and software design<br>🤝 I’m keen to collaborate on projects with Python<br>🌱 I am to start learning Java in August 2023! <br>💬 Ask me about my projects!<br>⚡ Other facts about me: I am a big MMA fan, always interested in science and love 
+📚 I’m currently studying IT, Software Development<br>💡 I’m looking to always learn about open source projects, other programming languages, game development and software design<br>🤝 I’m keen to collaborate on projects with Python<br>🌱 I am to start learning Java in August 2023! <br>💬 Ask me about my projects!<br>⚡ Other facts about me: I am a big MMA fan, always facinated in science and love learning more about Tech!
 
 
 # 💻 Tech Stack:

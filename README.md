@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java!<br>🎲 Fun fact: I am a big MMA fan and love all things outdoors!</p>
+<p align="left">🐍 Keen to work Python projects!<br>🤖 Interested in AI, Machine Learning, and Data Analytics.<br>📚 I'm currently learning Java!<br>🎲 Fun fact: I am a big MMA fan and love all things outdoors!<br>👾 Working on Game Development on the side.</p>
 
 ###
 
@@ -44,7 +44,9 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Eyad">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###

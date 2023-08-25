@@ -36,11 +36,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyadhajj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=eyadhajj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ycvx3eya5ezv9bls2jqjuz7ln&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ycvx3eya5ezv9bls2jqjuz7ln&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=09ff00&bar_color_cover=false)]]
 ###
 
 <div align="center">

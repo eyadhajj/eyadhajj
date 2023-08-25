@@ -36,13 +36,6 @@
 
 ###
 
-![[https://spotify-github-profile.vercel.app/api/view.svg?uid=ycvx3eya5ezv9bls2jqjuz7ln&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ycvx3eya5ezv9bls2jqjuz7ln&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=09ff00&bar_color_cover=false)]]
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Eyad">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=Eyad" alt="Spotify recently played"  />
-  </a>
-</div>
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=Eyad)
 
 ###

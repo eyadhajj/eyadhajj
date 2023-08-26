@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🐍 Keen to work Python projects!<br>🤖 Interested in AI, Machine Learning, and Data Analytics.<br>📚 I'm currently learning Java!<br>🎲 Fun fact: I am a big MMA fan and love all things outdoors!<br>👾 Working on Game Development on the side.</p>
+<p align="left">🐍 Keen to work Python projects!<br>🤖 Interested in AI, Machine Learning, and Data Analytics.<br>📚 I'm currently learning Java!<br>👾 Working on Game Development on the side.<br>🎲 Fun fact: I am a big MMA fan and love all things outdoors!</p>
 
 ###
 

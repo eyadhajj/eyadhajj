@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eyad! I am a student studying a Bachelor of IT, Software Development. I am extremely passionate about my course and love all things tech.</p>
+<p align="center">My name is Eyad! I am a student studying a Bachelor of IT, Software Development. I am extremely passionate about my course and love all things tech.</p>
 
 ###
 

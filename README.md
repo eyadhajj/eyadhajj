@@ -10,9 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/N7UQCEtGgRMRi/giphy.gif"  />
-</div>
 
 ###
 

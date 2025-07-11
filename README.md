@@ -16,7 +16,13 @@
 
 ###
 
-<p align="center">🐍 Keen to work Python projects!<br>🤖 Interested in AI, Machine Learning, and Data Analytics.<br>📚 I'm currently focusing on Java development!<br>👾 Working on Game Development on the side.<br>🎲 Fun fact: I am a big MMA fan and love all things outdoors!</p>
+<p align="center">
+<li>🎓 Currently about to graduate as a Software Developer. </li>
+<li>💼 Currently working as a maintenance analyst. </li>
+<li> Aiming to steer my career into the machine learning space.</li>
+<li> Worked projects involving computer vision and detection.</li>
+
+</p>
 
 ###
 

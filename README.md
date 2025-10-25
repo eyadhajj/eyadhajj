@@ -23,13 +23,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/eyadhajj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eyadhajj" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a>
@@ -69,11 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eyadhajj&show_icons=true&theme=radical" alt="Eyad's GitHub stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadhajj&layout=compact&theme=radical" alt="Top languages" height="170"/>
 </p>
-
----
-
-### ✨ Fun Fact
-- 🎣 I love fishing — it even inspired one of my machine learning projects!
 
 ---
 

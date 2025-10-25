@@ -68,5 +68,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyadhajj&style=for-the-badge&color=blueviolet" alt="profile views"/>
   <br><br>
-  ✨ Crafted with curiosity by <b>Eyad El Hajj</b> ✨
+  ✨ Crafted with curiosity by <b>Eyad</b> ✨
 </p>

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eyad 
+# Hi 👋, I'm Eyad !
 
 ### Software Developer
 
@@ -59,7 +59,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyadhajj&show_icons=true&theme=radical" alt="Eyad's GitHub stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadhajj&layout=compact&theme=radical" alt="Top languages" height="170"/>
 </p>
 
